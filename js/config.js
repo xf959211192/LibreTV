@@ -118,7 +118,7 @@ const API_SITES = {
     maotaizy: {
         api: 'https://caiji.maotaizy.cc/api.php/provide/vod',
         name: '茅台资源'
-    }，
+    },
     bdzy: {
         api: 'https://api.apibdzy.com/api.php/provide/vod',
         name: '百度资源'
@@ -130,7 +130,7 @@ const API_SITES = {
     xinlangaa: {
         api: 'https://api.xinlangapi.com/xinlangapi.php/provide/vod'，
         name: '新浪资源'
-    }，
+    },
     ckzy: {
         api: 'https://ckzy.me/api.php/provide/vod',
         name: 'CK资源',
