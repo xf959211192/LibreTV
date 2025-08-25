@@ -124,11 +124,11 @@ const API_SITES = {
         name: '百度资源'
     },
     hongniuzy: {
-        api: 'https://www.hongniuzy2.com/api.php/provide/vod'，
+        api: 'https://www.hongniuzy2.com/api.php/provide/vod',
         name: '红牛资源'
     },
     xinlangaa: {
-        api: 'https://api.xinlangapi.com/xinlangapi.php/provide/vod'，
+        api: 'https://api.xinlangapi.com/xinlangapi.php/provide/vod',
         name: '新浪资源'
     },
     ckzy: {
