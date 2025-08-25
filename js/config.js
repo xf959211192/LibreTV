@@ -122,7 +122,7 @@ const API_SITES = {
     bdzy: {
         api: 'https://api.apibdzy.com/api.php/provide/vod',
         name: '百度资源'
-    }，
+    },
     hongniuzy: {
         api: 'https://www.hongniuzy2.com/api.php/provide/vod'，
         name: '红牛资源'
